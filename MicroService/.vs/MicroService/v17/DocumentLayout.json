@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453D5BEA-29C5-43D4-A5FE-658462C77359}|ProductService.API\\ProductService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\productservice.api\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453D5BEA-29C5-43D4-A5FE-658462C77359}|ProductService.API\\ProductService.API.csproj|solutionrelative:productservice.api\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453D5BEA-29C5-43D4-A5FE-658462C77359}|ProductService.API\\ProductService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\productservice.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453D5BEA-29C5-43D4-A5FE-658462C77359}|ProductService.API\\ProductService.API.csproj|solutionrelative:productservice.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453D5BEA-29C5-43D4-A5FE-658462C77359}|ProductService.API\\ProductService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453D5BEA-29C5-43D4-A5FE-658462C77359}|ProductService.API\\ProductService.API.csproj|solutionrelative:productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453D5BEA-29C5-43D4-A5FE-658462C77359}|ProductService.API\\ProductService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\productservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{453D5BEA-29C5-43D4-A5FE-658462C77359}|ProductService.API\\ProductService.API.csproj|solutionrelative:productservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\userservice.api\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\userservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\userservice.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\userservice.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\userservice.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\userservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B71136-BFD3-43C7-9269-6296271DCC49}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFE52EC-E1A1-4944-8E96-8C64C960C7B6}|CategoryService.API\\CategoryService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\categoryservice.api\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFE52EC-E1A1-4944-8E96-8C64C960C7B6}|CategoryService.API\\CategoryService.API.csproj|solutionrelative:categoryservice.api\\data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFE52EC-E1A1-4944-8E96-8C64C960C7B6}|CategoryService.API\\CategoryService.API.csproj|c:\\users\\legen\\onedrive\\belgeler\\github\\webapi-storedprocedure\\microservice\\categoryservice.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFE52EC-E1A1-4944-8E96-8C64C960C7B6}|CategoryService.API\\CategoryService.API.csproj|solutionrelative:categoryservice.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\ProductService.API\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductService.API\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\ProductService.API\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductService.API\\Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:28:03.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\ProductService.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductService.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\ProductService.API\\Models\\Product.cs",
+              "RelativeToolTip": "ProductService.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:27:17.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\ProductService.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\ProductService.API\\Program.cs",
+              "RelativeToolTip": "ProductService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:27:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\ProductService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductService.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\ProductService.API\\appsettings.json",
+              "RelativeToolTip": "ProductService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T14:12:31.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\appsettings.json",
+              "RelativeToolTip": "UserService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T08:42:50.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "UserService.API\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Models\\LoginModel.cs",
+              "RelativeToolTip": "UserService.API\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:36:33.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserService.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:36:00.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserService.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserService.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:35:54.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Models\\User.cs",
+              "RelativeToolTip": "UserService.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:52:25.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserService.API\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\UserService.API\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UserService.API\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwv4oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:52:14.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\CategoryService.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CategoryService.API\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\CategoryService.API\\Models\\Category.cs",
+              "RelativeToolTip": "CategoryService.API\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:41:07.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\CategoryService.API\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CategoryService.API\\Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Legen\\OneDrive\\Belgeler\\GitHub\\WebAPI-StoredProcedure\\MicroService\\CategoryService.API\\Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "CategoryService.API\\Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:13:12.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
